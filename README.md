@@ -1,0 +1,2 @@
+# typescripet-newbie
+typescript exercise
